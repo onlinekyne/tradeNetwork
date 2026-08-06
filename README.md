@@ -1,2 +1,2 @@
-# tradeNetwork
-Data and Methods on International Trade Networks
+# tradeNetwork ReadMe
+Joint work with Anthony Bonato, Vincent Luong and Kyne Santos
