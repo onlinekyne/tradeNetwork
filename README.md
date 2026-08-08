@@ -16,8 +16,8 @@ Contains trade network data files.
 ## `oil_k3_graph_models.ipynb`
 Notebook file containing code used to run the model prediction on the k3 oil network.
 
-## `oil trade centrality analysis.ipynb`
-Notebook file containing code to compute and plot centrality measures from 1988 to 2025.
-
 This notebook utilizes the python files `four_profile.py` and `three_profile.py` for the implementation of getting the 
 4-profile of a graph.
+
+## `oil trade centrality analysis.ipynb`
+Notebook file containing code to compute centrality measures from 1988 to 2025. Contains time series plots of the top 20 oil exporting countries by pagerank, indegree, and the spearmann correlations of how these rankings change by year.
